@@ -1,0 +1,4 @@
+include ':export_home'
+include ':module_home'
+include ':app'
+rootProject.name = "elk-home"
