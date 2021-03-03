@@ -22,7 +22,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
-        android:background="@color/cFFFFFF"
+        android:background="@android:color/background_dark"
         android:theme="@style/myNavigationDrawerStyle"
         app:itemTextColor="@color/selector_red_withe"
         app:labelVisibilityMode="labeled"
