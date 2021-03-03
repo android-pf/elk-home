@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="c008577">#008577</color>
+    <color name="c00574B">#00574B</color>
+    <color name="cD81B60">#D81B60</color>
+    <color name="cFFFFFF">#FFFFFF</color>
+    <color name="cC7C7C7">#C7C7C7</color>
+    <color name="c999999">#999999</color>
+    <color name="c666666">#666666</color>
+    <color name="c333333">#333333</color>
+    <color name="cEF3D43">#EF3D43</color>
+    <color name="cFF5555">#FF5555</color>
+    <color name="cEEEEEE">#EEEEEE</color>
+    <color name="c48BA00">#48BA00</color>
+    <color name="cFF5C5C">#FF5C5C</color>
+    <color name="c1EC622">#1EC622</color>
+    <color name="ce3e7ee">#e3e7ee</color>
+    <color name="cc4c4c4">#c4c4c4</color>
+    <color name="c00a5ff">#00a5ff</color>
+    <color name="ce5e5e5">#e5e5e5</color>
+    <color name="cf9f9f9">#f9f9f9</color>
+    <color name="cf6f6f6">#f6f6f6</color>
+    <color name="cFF4B50">#FF4B50</color>
+    <color name="cFD9F42">#FD9F42</color>
+    <color name="c169F19">#169F19</color>
+    <color name="c48A8FA">#48A8FA</color>
+    <color name="c822CE9">#822CE9</color>
+    <color name="cBBBBBB">#BBBBBB</color>
+    <!--Zxing相关-->
+    <color name="possible_result_points">#c0ffbd21</color> <!-- Android standard ICS color -->
+    <!-- Android standard ICS color -->
+    <color name="result_view">#b0000000</color>
+    <color name="status_text">#ffffffff</color>
+    <color name="viewfinder_laser">#ffcc0000</color> <!-- Android standard ICS color -->
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="cp_divider">#E5E5E5</color>
+    <color name="cp_colorAccent">#F3F3F3</color>
+    <color name="cp_content_bg">@color/cp_colorAccent</color>
+    <color name="cp_gray">#8c8c8c</color>
+    <color name="cp_gray_deep">#5c5c5c</color>
+    <color name="cp_alpha_gray">#CC646464</color>
+    <color name="divider">#ffd2d2d2</color>
+    <color name="white_alpha">#66FFFFFF</color>
+
+    <color name="beauty_color_red">#FF584C</color>
+    <color name="beauty_color_white">#FFFFFF</color>
+    <!-- 基础色值 -->
+    <color name="live_black20">#33000000</color> <!--不透明度20%黑-->
+    <color name="live_white">#ffffff</color> <!--不透明度20%黑-->
+    <color name="live_dark_black">#000000</color>
+
+    <color name="live_primary">#00A66b</color>
+    <color name="live_color_red">#FF0000</color>
+    <color name="live_color_white">#FFFFFF</color>
+    <color name="live_color_grey">#44777777</color>
+    <color name="live_color_yellow">#EEEE00</color>
+    <color name="live_color_top_bottom_bg">#30000000</color>
+    <color name="live_color_top_bottom_bg_disabled">#4D4D4D</color>
+    <color name="live_color_status_tip">#FF6B82A8</color>
+
+    <!-- 直播间顶部主播信息 -->
+    <color name="status_bar_color">#EDEDED</color>
+    <color name="conversation_top_color">#F2F2F2</color>
+    <color name="navigation_bar_color">#F7F7F7</color>
+    <color name="slide_bar_hint_color">#CCCCCC</color>
+    <!-- 聊天页面的整体背景色 -->
+    <color name="chat_background_color">#f9f9f9</color>
+
+    <color name="live_color_bg_detail_live">#ff000000</color>
+    <color name="live_color_text_hint">#FF6B82A8</color>
+    <color name="live_color_text_blue">#FF0062E3</color>
+    <color name="live_color_shadow">#FF36455C</color>
+    <color name="live_color_bg_select_pk">#FF13233F</color>
+
+    <!-- 消息/弹幕输入 -->
+    <color name="live_color_send_name">#FF2B7DE2</color>
+    <color name="live_color_transparent_black">#44777777</color>
+    <color name="live_color_input_dialog_bg">#FFFFFF</color>
+    <color name="live_color_send_name0">#FF9966CC</color>
+    <color name="live_color_send_name1">#FFF12B5B</color>
+    <color name="live_color_send_name2">#FF2B7DE2</color>
+    <color name="live_color_send_name3">#FF006599</color>
+    <color name="live_color_send_name4">#FFFF7906</color>
+    <color name="live_color_send_name5">#FF1FBCB6</color>
+    <color name="live_color_send_name6">#FFFFAE1F</color>
+    <color name="live_color_send_name7">#FFFF437D</color>
+    <color name="cFF00A66B">#FF00A66B</color>
+    <color name="c00A66b">#00A66b</color>
+
+
+    <!-- 礼物 -->
+    <color name="cE6000000">#E6000000</color>
+    <color name="cFF8C00">#FF8C00</color>
+    <color name="cFF0000">#FF0000</color>
+    <color name="c303030">#303030</color>
+    <color name="c40000000">#40000000</color>
+    <color name="cFF8989">#FF8989</color>
+
+    <color name="c020714">#020714</color>
+    <color name="c56749E">#56749E</color>
+    <color name="cEBF4FF">#EBF4FF</color>
+    <color name="c6B82A8">#6B82A8</color>
+    <color name="cFF0062E3">#FF0062E3</color>
+
+    <color name="cFF000000">#FF000000</color>
+    <color name="c44777777">#44777777</color>
+    <!--输入框颜色-->
+    <color name="cFF4E42">#FF4E42</color>
+
+    <color name="c037BFF">#037BFF</color>
+
+
+    <!-- 灰色背景 -->
+    <color name="cEDEDED">#EDEDED</color>
+    <color name="cF2F2F2">#F2F2F2</color>
+    <color name="cF7F7F7">#F7F7F7</color>
+    <color name="cF4F4F4">#F4F4F4</color>
+
+    <!-- 黑色字体-->
+    <color name="c181818">#181818</color>
+    <color name="cA5A5A5">#A5A5A5</color>
+
+    <!-- 线 -->
+    <color name="cE6E6E6">#E6E6E6</color>
+    <color name="cD2D2D2">#D2D2D2</color>
+
+    <color name="c338BFF">#338BFF</color>
+    <color name="ccccccc">#cccccc</color>
+    <color name="cD9D9D9">#D9D9D9</color>
+
+    <color name="c000000">#000000</color>
+    <color name="c696969">#696969</color>
+
+    <color name="c066fff">#066fff</color>
+
+    <color name="cDEDEDE">#DEDEDE</color>
+
+    <!--    <color name="transparent">#00000000</color>-->
+    <!--    <color name="black">#000000</color>-->
+    <color name="cb2b2b2">#b2b2b2</color>
+    <color name="c39000000">#39000000</color>
+    <color name="cB3000000">#B3000000</color>
+    <color name="cc6c6c6">#c6c6c6</color>
+    <color name="cf74c31">#f74c31</color>
+
+    <!--    <color name="white">#FFFFFF</color>-->
+    <color name="cDDDDDD">#DDDDDD</color>
+
+    <color name="c777777">#777777</color>
+
+    <color name="c016fff">#016fff</color>
+
+    <color name="c888888">#888888</color>
+
+    <!-- 积极钮色值 -->
+    <color name="c00a4ff">#00a4ff</color>
+    <color name="c006eff">#006eff</color>
+
+    <!-- 积极按钮文本色值 -->
+
+    <!-- 消极按钮背景色值 -->
+    <color name="ccc3428">#cc3428</color>
+
+    <!-- 消极按钮文本色值 -->
+    <color name="cfb6155">#fb6155</color>
+
+    <!-- 聊天昵称/时间条背景色值 -->
+    <!-- 聊天发送/光标色值 -->
+    <color name="c70C160">#70C160</color>
+    <color name="c006EFF">#006EFF</color>
+    <color name="cFEAA29">#FEAA29</color>
+    <color name="cF8F8F8">#F8F8F8</color>
+    <color name="cB1B1B1">#B1B1B1</color>
+    <color name="cF3F3F3">#F3F3F3</color>
+    <color name="cF5F5F5">#F5F5F5</color>
+    <color name="c34A1FF">#34A1FF</color>
+    <color name="cFC4C4D">#FC4C4D</color>
+    <color name="cF9F9F9">#f9f9f9</color>
+    <color name="cFFE4E2">#FFE4E2</color>
+    <color name="cFD6150">#FD6150</color>
+    <color name="c33000000">#33000000</color>
+    <color name="c70FFFFFF">#70FFFFFF</color>
+</resources>

@@ -50,7 +50,8 @@ dependencies {
     annotationProcessor 'com.alibaba:arouter-compiler:1.2.1'
     implementation 'com.github.android-pf:elk-common:0.0.3'
     annotationProcessor 'com.github.hufeiyang.Android-AppLifecycleMgr:applifecycle-compiler:1.0.4'
-    implementation project(path: ':export_home')
+//    implementation 'com.github.android-pf.elk-home:export_home:0.0.1'
+    implementation project(path: ':export_home')//开发阶段打开，该开关只能打开一个
 
 //    implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
 //    implementation 'androidx.core:core-ktx:1.2.0'

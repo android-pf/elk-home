@@ -35,5 +35,6 @@ dependencies {
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
     implementation 'com.github.android-pf:elk-common:0.0.3'
-//    implementation project(path: ':module_home')
+    implementation 'com.github.android-pf.elk-home:module_home:0.0.1'
+//    implementation project(path: ':module_home')//开发阶段打开，该开关只能打开一个
 }
